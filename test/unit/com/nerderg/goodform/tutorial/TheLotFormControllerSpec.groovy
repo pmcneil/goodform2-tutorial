@@ -16,5 +16,6 @@ class TheLotFormControllerSpec extends Specification {
     }
 
     void "test something"() {
+
     }
 }
